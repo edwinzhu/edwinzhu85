@@ -15,3 +15,13 @@ shoujiduan/frameworks/runtime-src/proj.win32/Debug.win32/GloryProject.log
 shoujiduan/frameworks/runtime-src/proj.win32/.vs/GloryProject/v14/.suo
 shoujiduan/frameworks/runtime-src/proj.win32/.vs/GloryProject/v14/.suo
 shoujiduan/frameworks/runtime-src/proj.win32/.vs/GloryProject/v14/.suo
+*.obj
+*.obj
+shoujiduan/frameworks/cocos2d-x/cocos/editor-support/spine/proj.win32/Debug.win32/MeshAttachment.obj
+shoujiduan/frameworks/cocos2d-x/cocos/editor-support/spine/proj.win32/Debug.win32/MeshAttachment.obj
+*.lastbuildstate
+shoujiduan/frameworks/cocos2d-x/cocos/editor-support/spine/proj.win32/Debug.win32/Animation.obj
+*.obj
+*.obj
+*.obj
+shoujiduan/frameworks/cocos2d-x/external/Box2D/proj.win32/Debug.win32/b2Settings.obj
